@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    color: #fff;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('images/fundo-logo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 90px;
+    border-bottom: 1px solid #33A8DB80;
+    height: 100vh;
+}
+
+.header-content img {
+    background-color: rgba(0, 0, 0, .2);
+    padding: 30px;
+    border-radius: 50%;
+    width: 270px;
+    height: 240px;
+}
+
+header h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: transparent;
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
+}
+
+.header-content p {
+    font-size: 25px;
+    margin: 25px 450px;
+}
+
+.header-content button {
+    color: #31A8DD;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 40px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#3BA1CD, #1572B7);
+    border: 3px solid;
+    border-image-slice: 10;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #33A8DB;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-bottom: 24px;
+}
+
+
+section {
+    margin: 100px auto;
+}
+
+#course-content {
+    width: 990px;
+}
+
+#course-content h2 {
+    font-size: 40px;
+}
+
+.description p {
+    font-size: 22px;
+    line-height: 1.9rem;
+}
+  
+.module p {
+    font-size: 20px;
+}
+
+.module {
+    color: white;
+    width: 600px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+  
+.module span {
+    color: #33A8DB;
+}
+
+#transform {
+    height: 350px;
+    background-size: cover;
+    background-image: url("images/woman-code.png");
+    background-attachment: fixed;
+    border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
+    padding: 200px;
+}
+  
+#transform h2 {
+    font-weight: bolder;
+    font-size: 40px;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+    color: #fff;
+}
+  
+#professional {
+    width: 900px;
+}
+
+#professional h2 {
+    font-size: 40px;
+}
+
+#professional img {
+    width: 900px;
+}
+
+#professional img {
+    margin: 20px 0;
+}
+
+#professional p {
+    font-size: 20px;
+    line-height: 1.9rem;
+}
+
+footer {
+    padding: 60px 0;
+    text-align: center;
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    border-top: 1px solid #33A8DB80;
+    font-size: 20px;
+}
+  
+footer .dio-logo {
+    width: 380px;
+}
+  
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+}
