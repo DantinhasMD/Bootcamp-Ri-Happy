@@ -1,7 +1,8 @@
 # Bootcamp-Ri-Happy 😁
 O Bootcamp "Coding The Future Ri Happy - Desenvolvimento Front-end do Zero" ofereceu uma série de projetos práticos para consolidar habilidades em HTML, CSS e JavaScript. Embora o programa mencionasse a realização de 10 projetos, a lista oficial detalha 9 projetos principais:
 
-![Bootcamp - RiHappy Front](file:///C:/Users/Maria/Downloads/Bootcamp.-.RiHappy.Front.pdf)
+<img src="file:///C:/Users/Maria/Downloads/Bootcamp.-.RiHappy.Front.pdf">
+
 ## Criando sua Primeira Landing Page com HTML e CSS 🚀
 Desenvolvimento de uma página inicial simples e responsiva para apresentar conceitos básicos de estruturação e estilização de páginas web.
 
